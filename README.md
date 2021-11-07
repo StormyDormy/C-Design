@@ -1,4 +1,4 @@
 # C-Design
-I have made a design for C# and it has many features you can add for growtopia autofarmer but you could also change everything and remove all options and make it for another game
+A free C# Winforms Design normally for growtopia autofarming but you can always remove the unwanted options and make it for any other game :)
 
 Anways if you need any help no need to hesititate and dm me on discord Storm#2000
